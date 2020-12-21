@@ -7,4 +7,5 @@ I create java script file for Password gnreater as per requriment.
 5. Then it will create random password.
 
 link:1. Git hub link:https://github.com/niyati7892/PasswordGenerate
-     2. Github page link:
+     2. Github page link:https://niyati7892.github.io/PasswordGenerate/
+     
